@@ -1,5 +1,5 @@
 # Usage:
-# python minivggnet_cifar10.py --output output/
+# python minivggnet_cifar10.py --output output/cifar10_minivggnet_with_bn.png
 
 
 # Set matplotlib Backend So Figures Can Be Saved In Background
